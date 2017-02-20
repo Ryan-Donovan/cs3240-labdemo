@@ -1,11 +1,10 @@
 # hello.py
 # Ryan Donovan (rad9vy)
 
-def greeting(msg):
-    print(msg)
+import helper
 
 if __name__ == "__main__":
-    greeting("Hi I'm Ryan.")
+    helper.greeting("Hi I'm Ryan.")
     print("Hello.")
 
 
