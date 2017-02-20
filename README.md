@@ -1,1 +1,1 @@
-# cs3240-labdemo - Ryan Donovan; Lab 5
+# cs3240-labdemo - lab 5
